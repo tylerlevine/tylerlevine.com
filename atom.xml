@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Tyler Levine's blog]]></title>
+  <title><![CDATA[Tyler Levine]]></title>
   <link href="http://tylerlevine.com/atom.xml" rel="self"/>
   <link href="http://tylerlevine.com/"/>
-  <updated>2012-10-07T22:35:08-07:00</updated>
+  <updated>2012-10-08T01:25:04-07:00</updated>
   <id>http://tylerlevine.com/</id>
   <author>
     <name><![CDATA[Tyler Levine]]></name>
