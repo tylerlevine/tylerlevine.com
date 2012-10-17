@@ -4,7 +4,7 @@
   <title><![CDATA[Tyler Levine]]></title>
   <link href="http://tylerlevine.com/atom.xml" rel="self"/>
   <link href="http://tylerlevine.com/"/>
-  <updated>2012-10-08T01:25:04-07:00</updated>
+  <updated>2012-10-17T00:49:01-07:00</updated>
   <id>http://tylerlevine.com/</id>
   <author>
     <name><![CDATA[Tyler Levine]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello There]]></title>
+    <link href="http://tylerlevine.com/blog/2012/10/17/hello-there/"/>
+    <updated>2012-10-17T00:29:00-07:00</updated>
+    <id>http://tylerlevine.com/blog/2012/10/17/hello-there</id>
+    <content type="html"><![CDATA[<p>This blog is a work in progress, so I don&#8217;t have much content up here yet. Please pardon the vacuum.</p>
+
+<p>If you&#8217;re a recruiter, you may be interested in seeing <a href="https://docs.google.com/document/d/1tQngWmeMcq2kdrjxNRhRVsDY7IJx3J4gQVd8HciPeNQ/edit">my résumé</a> or visiting <a href="http://github.com/tjlevine">my github page</a> to see some of my code.</p>
+]]></content>
+  </entry>
   
 </feed>
