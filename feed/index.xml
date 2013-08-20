@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tyler Levine]]></title>
-  <link href="http://tylerlevine.com/atom.xml" rel="self"/>
+  <link href="http://tylerlevine.com/feed" rel="self"/>
   <link href="http://tylerlevine.com/"/>
   <updated>2013-08-20T01:16:19-07:00</updated>
   <id>http://tylerlevine.com/</id>
